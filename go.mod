@@ -3,21 +3,21 @@ module go.kenn.io/roborev
 go 1.27.3
 
 require (
-	charm.land/bubbletea/v2 v2.1.0
+	charm.land/bubbletea/v2 v2.1.1
 	charm.land/glamour/v2 v2.0.1
 	charm.land/lipgloss/v2 v2.0.6
 	github.com/BurntSushi/toml v1.6.0
 	github.com/atotto/clipboard v0.1.4
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1
 	github.com/bmatcuk/doublestar/v4 v4.10.4
-	github.com/cenkalti/backoff/v7 v7.0.2
+	github.com/cenkalti/backoff/v7 v7.0.3
 	github.com/charmbracelet/colorprofile v0.4.3
 	github.com/charmbracelet/x/ansi v0.11.9
 	github.com/charmbracelet/x/windows v0.2.2
 	github.com/coder/acp-go-sdk v0.13.5
 	github.com/coreos/go-systemd/v22 v22.7.0
 	github.com/danielgtaylor/huma/v2 v2.40.0
-	github.com/doordash-oss/oapi-codegen-dd/v3 v3.76.5
+	github.com/doordash-oss/oapi-codegen-dd/v3 v3.76.6
 	github.com/fsnotify/fsnotify v1.10.1
 	github.com/go-git/go-git/v5 v5.19.3
 	github.com/go-playground/validator/v10 v10.30.5
@@ -25,7 +25,7 @@ require (
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-github/v93 v93.0.0
 	github.com/google/jsonschema-go v0.4.3
-	github.com/jackc/pgx/v5 v5.11.0
+	github.com/jackc/pgx/v5 v5.12.0
 	github.com/klauspost/compress v1.20.3
 	github.com/mattn/go-isatty v0.0.24
 	github.com/mattn/go-runewidth v0.0.31
@@ -37,8 +37,8 @@ require (
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.12.1
-	github.com/yuin/goldmark/v2 v2.1.11
-	gitlab.com/gitlab-org/api/client-go/v3 v3.39.0
+	github.com/yuin/goldmark/v2 v2.1.14
+	gitlab.com/gitlab-org/api/client-go/v3 v3.40.2
 	go.kenn.io/kit v0.47.5
 	golang.org/x/mod v0.42.0
 	golang.org/x/net v0.62.0
@@ -46,7 +46,7 @@ require (
 	golang.org/x/term v0.47.0
 	gopkg.in/yaml.v3 v3.0.1
 	hegel.dev/go/hegel v0.9.28
-	modernc.org/sqlite v1.61.0
+	modernc.org/sqlite v1.61.1
 )
 
 require (
@@ -73,7 +73,7 @@ require (
 	github.com/ebitengine/purego v0.12.0-alpha.1.0.20261015130536-d456b1bb95e8 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.16 // indirect
-	github.com/getkin/kin-openapi v0.149.0 // indirect
+	github.com/getkin/kin-openapi v0.151.0 // indirect
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376 // indirect
 	github.com/go-git/go-billy/v5 v5.9.2 // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
@@ -93,7 +93,7 @@ require (
 	github.com/invopop/jsonschema v0.14.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
-	github.com/jackc/puddle/v2 v2.2.2 // indirect
+	github.com/jackc/puddle/v2 v2.2.3 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
 	github.com/leodido/go-urn v1.5.0 // indirect
@@ -102,7 +102,7 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.27 // indirect
 	github.com/muesli/cancelreader v0.2.2 // indirect
 	github.com/ncruces/go-strftime v1.1.0 // indirect
-	github.com/oasdiff/oasdiff v1.34.1 // indirect
+	github.com/oasdiff/oasdiff v1.35.0 // indirect
 	github.com/oasdiff/yaml v0.1.1 // indirect
 	github.com/oasdiff/yaml3 v0.0.14 // indirect
 	github.com/pb33f/go-yaml v0.1.1 // indirect
